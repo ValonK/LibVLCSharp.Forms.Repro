@@ -1,0 +1,25 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <ProduceReferenceAssembly>true</ProduceReferenceAssembly>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="LibVLCSharp" Version="3.6.6" />
+    <PackageReference Include="LibVLCSharp.Forms" Version="3.6.6" />
+    <PackageReference Include="Xamarin.Forms" Version="5.0.0.2337" />  
+    <PackageReference Include="Xamarin.Essentials" Version="1.7.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Remove="Assets\Media\tikvideo1.mp4" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Remove="Assets\Media\test1.mp4" />
+    <EmbeddedResource Include="Assets\Media\test1.mp4">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </EmbeddedResource>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "Y5MvvNZxk+EvL1aTmcBabru0ufzTh17tbn8wRp7XVZJ2V4yaDegIZ/uYtGC+LaiY+8lZvkyAnGvRMOgRBsSsAg==",
+  "success": true,
+  "projectFilePath": "F:\\Testing\\App1\\App1\\App1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Null\\.nuget\\packages\\libvlcsharp\\3.6.6\\libvlcsharp.3.6.6.nupkg.sha512",
+    "C:\\Users\\Null\\.nuget\\packages\\libvlcsharp.forms\\3.6.6\\libvlcsharp.forms.3.6.6.nupkg.sha512",
+    "C:\\Users\\Null\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Null\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\Null\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
+    "C:\\Users\\Null\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\Null\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\Null\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.3\\system.runtime.compilerservices.unsafe.4.5.3.nupkg.sha512",
+    "C:\\Users\\Null\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\Null\\.nuget\\packages\\xamarin.forms\\5.0.0.2337\\xamarin.forms.5.0.0.2337.nupkg.sha512"
+  ],
+  "logs": []
+}
